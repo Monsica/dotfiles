@@ -1,5 +1,6 @@
 # Set Variables
-
+# Syntax highlighting for MAN pages with bat
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 
 # Change ZSH Options
 
