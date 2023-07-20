@@ -6,6 +6,8 @@ tap "homebrew/core"
 tap "homebrew/services"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Bash scripts that integrate bat with various command-line tools
+brew "bat-extras"
 # Pack, ship and run any application as a lightweight container
 brew "docker"
 # Modern replacement for 'ls'

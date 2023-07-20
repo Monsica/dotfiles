@@ -1,5 +1,6 @@
 # Set Variables
-export HOMEBREW_BUNDLE_FILE="$DOTFILES/Brewfile"
+#export HOMEBREW_BUNDLE_FILE="$DOTFILES/Brewfile"
+export NULLCMD=bat
 
 # Change ZSH Options
 
