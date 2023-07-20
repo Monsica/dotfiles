@@ -14,10 +14,6 @@ brew "exa"
 brew "git"
 # Java-based project management
 brew "maven"
-# Open source relational database management system
-brew "mysql"
-# HTTP/2 C Library
-brew "nghttp2"
 # Platform built on V8 to build network applications
 brew "node"
 # Manage multiple Node.js versions
@@ -28,14 +24,16 @@ brew "postgresql@14"
 brew "pyenv"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.10"
-# Interpreted, interactive, object-oriented programming language
-brew "python@3.9"
 # Language for application scale JavaScript development
 brew "typescript"
 # AdoptOpenJDK OpenJDK (Java) Development Kit
 cask "adoptopenjdk15"
+# Git client focusing on productivity
+cask "gitkraken"
 # JetBrains tools manager
 cask "jetbrains-toolbox"
+# Provides updates to various Microsoft products
+cask "microsoft-auto-update"
 # Collaboration platform for API development
 cask "postman"
 # Control your tools with a few keystrokes
