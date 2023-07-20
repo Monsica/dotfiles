@@ -1,5 +1,4 @@
 # Set Variables
-export BAT_THEME="Dracula"
 export HOMEBREW_BUNDLE_FILE="$DOTFILES/Brewfile"
 
 # Change ZSH Options
