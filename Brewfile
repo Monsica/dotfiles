@@ -28,6 +28,8 @@ brew "pyenv"
 brew "python@3.10"
 # Language for application scale JavaScript development
 brew "typescript"
+# UNIX shell (command interpreter)
+brew "zsh"
 # AdoptOpenJDK OpenJDK (Java) Development Kit
 cask "adoptopenjdk15"
 # Git client focusing on productivity
