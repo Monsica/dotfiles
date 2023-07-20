@@ -1,9 +1,5 @@
 # Set Variables
-# Syntax highlighting for MAN pages with bat
-export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 export BAT_THEME="Dracula"
-# homebrew
-export HOMEBREW_CASK_OPTS="--no-quarantine"
 export HOMEBREW_BUNDLE_FILE="$DOTFILES/Brewfile"
 
 # Change ZSH Options
